@@ -79,7 +79,7 @@ Its goal is to provide a coherent, performant and extensible ecosystem for areas
 - UI and player systems;
 - administration and server tooling.
 
-NCore Framework is developed separately from NCore Control. Public packages and releases are published only when they are ready for distribution.
+ZOcre Framework is developed separately from ZOcre Control. Public packages and releases are published only when they are ready for distribution.
 
 ### Official channels
 
@@ -104,7 +104,7 @@ ZOcre software is proprietary unless a specific component states otherwise.
 - ZOcre scripts/packages include their own applicable license.
 - Third-party components remain governed by their own terms.
 
-Details: [repository rights](LICENSE.md) · [NCore Control license](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [third-party notices](THIRD-PARTY-NOTICES.txt)
+Details: [repository rights](LICENSE.md) · [ZOcre Control license](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [third-party notices](THIRD-PARTY-NOTICES.txt)
 
 ---
 
@@ -151,7 +151,7 @@ Son objectif est de fournir un écosystème cohérent, performant et extensible 
 - interfaces et systèmes joueur ;
 - administration et outils serveur.
 
-NCore Framework est développé séparément de NCore Control. Les packages et releases publics sont publiés uniquement lorsqu'ils sont prêts à être distribués.
+ZOcre Framework est développé séparément de ZOcre Control. Les packages et releases publics sont publiés uniquement lorsqu'ils sont prêts à être distribués.
 
 ### Canaux officiels
 
@@ -176,7 +176,7 @@ Les logiciels ZOcre sont propriétaires sauf indication spécifique contraire.
 - Les scripts/packages ZOcre incluent leur propre licence applicable.
 - Les composants tiers restent soumis à leurs propres conditions.
 
-Détails : [droits du dépôt](LICENSE.md) · [licence NCore Control](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [composants tiers](THIRD-PARTY-NOTICES.txt)
+Détails : [droits du dépôt](LICENSE.md) · [licence ZOcre Control](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [composants tiers](THIRD-PARTY-NOTICES.txt)
 
 ---
 
