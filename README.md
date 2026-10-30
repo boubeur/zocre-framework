@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/branding/ncore-logo.jpg" alt="NCore Framework official logo for NANOS / nanos world" width="300" height="150">
+  <img src="assets/branding/ncore-logo.jpg" alt="ZOcre Framework official logo for NANOS / nanos world" width="300" height="150">
 </p>
 
 <p align="center">
-  <img src="assets/branding/ncore-control-official.jpg" alt="NCore Control official logo" width="300" height="150">
+  <img src="assets/branding/ncore-control-official.jpg" alt="ZOcre Control official logo" width="300" height="150">
 </p>
 
-<h1 align="center">NCore Framework &amp; NCore Control</h1>
+<h1 align="center">ZOcre Framework &amp; ZOcre Control</h1>
 
 <p align="center">
-  <strong>Official NCore public organization:</strong>
+  <strong>Official ZOcre public organization:</strong>
   <a href="https://github.com/ncore-framework-official">ncore-framework-official</a>
   ·
   <a href="https://github.com/ncore-framework-official/ncore-control">NCore Control product page</a>
@@ -40,7 +40,7 @@
 
 ### NCore Control 1.0.0
 
-**NCore Control** is the official Windows application for installing and managing NANOS / nanos world servers.
+**ZOcre Control** is the official Windows application for installing and managing NANOS / nanos world servers.
 
 Version **1.0.0** is the first public release.
 
@@ -50,7 +50,7 @@ Download from the official release:
 
 `NCore-Control-Setup-1.0.0.exe`
 
-Then run the installer. NCore Control installs for the current Windows user, creates the desktop shortcut, and registers itself in Windows Installed apps.
+Then run the installer. ZOcre Control installs for the current Windows user, creates the desktop shortcut, and registers itself in Windows Installed apps.
 
 #### Main features
 
@@ -59,14 +59,14 @@ Then run the installer. NCore Control installs for the current Windows user, cre
 - start and stop managed servers;
 - create a dedicated desktop shortcut for each server;
 - remove a managed server in a targeted way;
-- manage NCore Control updates;
+- manage ZOcre Control updates;
 - preserve existing NANOS server files and data when Control is uninstalled.
 
 Automatic installation of **NCore Framework** is not enabled in NCore Control 1.0.0.
 
-### NCore Framework
+### ZOcre Framework
 
-**NCore Framework** is a modular RP framework designed specifically for NANOS / nanos world.
+**ZOcre Framework** is a modular RP framework designed specifically for NANOS / nanos world.
 
 Its goal is to provide a coherent, performant and extensible ecosystem for areas such as:
 
@@ -88,20 +88,20 @@ NCore Framework is developed separately from NCore Control. Public packages and 
 - **Historical/current Control releases:** https://github.com/boubeur/ncore-framework/releases
 - **Discord:** https://discord.gg/Ey4dn4Cbqj
 
-### Support NCore Framework
+### Support ZOcre Framework
 
-NCore Framework is developed and maintained as an independent project for NANOS.  
+ZOcre Framework is developed and maintained as an independent project for NANOS.  
 Your support helps fund development, documentation, testing, and project infrastructure.
 
 [![Support NCore Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
 
 ### Legal
 
-NCore software is proprietary unless a specific component states otherwise.
+ZOcre software is proprietary unless a specific component states otherwise.
 
 - NCore Control 1.0.0 remains governed by the license bundled with that release.
-- Future Control releases may expressly adopt the current NCore product license.
-- NCore scripts/packages include their own applicable license.
+- Future Control releases may expressly adopt the current ZOcre product license.
+- ZOcre scripts/packages include their own applicable license.
 - Third-party components remain governed by their own terms.
 
 Details: [repository rights](LICENSE.md) · [NCore Control license](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [third-party notices](THIRD-PARTY-NOTICES.txt)
@@ -112,7 +112,7 @@ Details: [repository rights](LICENSE.md) · [NCore Control license](LICENSE-NCOR
 
 ### NCore Control 1.0.0
 
-**NCore Control** est l'application Windows officielle destinée à installer et gérer des serveurs NANOS / nanos world.
+**ZOcre Control** est l'application Windows officielle destinée à installer et gérer des serveurs NANOS / nanos world.
 
 La version **1.0.0** est la première release publique.
 
@@ -122,7 +122,7 @@ Téléchargez dans la release officielle :
 
 `NCore-Control-Setup-1.0.0.exe`
 
-Puis lancez l'installateur. NCore Control s'installe pour l'utilisateur Windows courant, crée son raccourci Bureau et s'enregistre dans les applications installées de Windows.
+Puis lancez l'installateur. ZOcre Control s'installe pour l'utilisateur Windows courant, crée son raccourci Bureau et s'enregistre dans les applications installées de Windows.
 
 #### Fonctions principales
 
@@ -131,14 +131,14 @@ Puis lancez l'installateur. NCore Control s'installe pour l'utilisateur Windows 
 - démarrer et arrêter les serveurs gérés ;
 - créer un raccourci Bureau dédié à chaque serveur ;
 - supprimer de manière ciblée un serveur géré ;
-- gérer les mises à jour de NCore Control ;
+- gérer les mises à jour de ZOcre Control ;
 - conserver les fichiers et données des serveurs NANOS lors de la désinstallation de Control.
 
 L'installation automatique de **NCore Framework** n'est pas activée dans NCore Control 1.0.0.
 
-### NCore Framework
+### ZOcre Framework
 
-**NCore Framework** est un framework RP modulaire conçu spécifiquement pour NANOS / nanos world.
+**ZOcre Framework** est un framework RP modulaire conçu spécifiquement pour NANOS / nanos world.
 
 Son objectif est de fournir un écosystème cohérent, performant et extensible pour notamment :
 
@@ -160,20 +160,20 @@ NCore Framework est développé séparément de NCore Control. Les packages et r
 - **Releases Control historiques/actuelles :** https://github.com/boubeur/ncore-framework/releases
 - **Discord :** https://discord.gg/Ey4dn4Cbqj
 
-### Soutenir NCore Framework
+### Soutenir ZOcre Framework
 
-NCore Framework est développé et maintenu comme un projet indépendant pour NANOS.  
+ZOcre Framework est développé et maintenu comme un projet indépendant pour NANOS.  
 Votre soutien contribue au développement, à la documentation, aux tests et à l'infrastructure du projet.
 
 [![Support NCore Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
 
 ### Mentions juridiques
 
-Les logiciels NCore sont propriétaires sauf indication spécifique contraire.
+Les logiciels ZOcre sont propriétaires sauf indication spécifique contraire.
 
 - NCore Control 1.0.0 reste régi par la licence incluse avec cette release.
-- Les futures releases Control peuvent adopter expressément la licence produit NCore actuelle.
-- Les scripts/packages NCore incluent leur propre licence applicable.
+- Les futures releases Control peuvent adopter expressément la licence produit ZOcre actuelle.
+- Les scripts/packages ZOcre incluent leur propre licence applicable.
 - Les composants tiers restent soumis à leurs propres conditions.
 
 Détails : [droits du dépôt](LICENSE.md) · [licence NCore Control](LICENSE-NCORE-CONTROL.txt) · [notice](NOTICE.md) · [copyright](COPYRIGHT.md) · [composants tiers](THIRD-PARTY-NOTICES.txt)
