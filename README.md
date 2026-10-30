@@ -10,9 +10,9 @@
 
 <p align="center">
   <strong>Official ZOcre public organization:</strong>
-  <a href="https://github.com/ncore-framework-official">ncore-framework-official</a>
+  <a href="https://github.com/zocre-framework-official">ncore-framework-official</a>
   ·
-  <a href="https://github.com/ncore-framework-official/ncore-control">ZOcre Control product page</a>
+  <a href="https://github.com/zocre-framework-official/zocre-control">ZOcre Control product page</a>
 </p>
 
 > **Historical compatibility endpoint only.** No new NCore public product, package or release is established under the personal `boubeur` namespace. New official public NCore publications belong to **[ncore-framework-official](https://github.com/ncore-framework-official)**.
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/boubeur/ncore-framework/releases">Official releases</a> ·
+  <a href="https://github.com/boubeur/zocre-framework/releases">Official releases</a> ·
   <a href="https://discord.gg/Ey4dn4Cbqj">Official Discord</a>
 </p>
 
@@ -83,9 +83,9 @@ ZOcre Framework is developed separately from ZOcre Control. Public packages and 
 
 ### Official channels
 
-- **Official organization:** https://github.com/ncore-framework-official
-- **ZOcre Control product page:** https://github.com/ncore-framework-official/ncore-control
-- **Historical/current Control releases:** https://github.com/boubeur/ncore-framework/releases
+- **Official organization:** https://github.com/zocre-framework-official
+- **ZOcre Control product page:** https://github.com/zocre-framework-official/zocre-control
+- **Historical/current Control releases:** https://github.com/boubeur/zocre-framework/releases
 - **Discord:** https://discord.gg/Ey4dn4Cbqj
 
 ### Support ZOcre Framework
@@ -155,9 +155,9 @@ ZOcre Framework est développé séparément de ZOcre Control. Les packages et r
 
 ### Canaux officiels
 
-- **Organisation officielle :** https://github.com/ncore-framework-official
-- **Page produit ZOcre Control :** https://github.com/ncore-framework-official/ncore-control
-- **Releases Control historiques/actuelles :** https://github.com/boubeur/ncore-framework/releases
+- **Organisation officielle :** https://github.com/zocre-framework-official
+- **Page produit ZOcre Control :** https://github.com/zocre-framework-official/zocre-control
+- **Releases Control historiques/actuelles :** https://github.com/boubeur/zocre-framework/releases
 - **Discord :** https://discord.gg/Ey4dn4Cbqj
 
 ### Soutenir ZOcre Framework
