@@ -1,3 +1,6 @@
+<!-- ZOCRE_FRAMEWORK_ARTWORK_START -->
+<!-- ZOCRE_FRAMEWORK_ARTWORK_END -->
+
 <h1 align="center">ZOcre Framework a déménagé</h1>
 
 <p align="center">
