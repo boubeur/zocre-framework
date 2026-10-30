@@ -12,7 +12,7 @@
   <strong>Official ZOcre public organization:</strong>
   <a href="https://github.com/ncore-framework-official">ncore-framework-official</a>
   ·
-  <a href="https://github.com/ncore-framework-official/ncore-control">NCore Control product page</a>
+  <a href="https://github.com/ncore-framework-official/ncore-control">ZOcre Control product page</a>
 </p>
 
 > **Historical compatibility endpoint only.** No new NCore public product, package or release is established under the personal `boubeur` namespace. New official public NCore publications belong to **[ncore-framework-official](https://github.com/ncore-framework-official)**.
@@ -84,7 +84,7 @@ NCore Framework is developed separately from NCore Control. Public packages and 
 ### Official channels
 
 - **Official organization:** https://github.com/ncore-framework-official
-- **NCore Control product page:** https://github.com/ncore-framework-official/ncore-control
+- **ZOcre Control product page:** https://github.com/ncore-framework-official/ncore-control
 - **Historical/current Control releases:** https://github.com/boubeur/ncore-framework/releases
 - **Discord:** https://discord.gg/Ey4dn4Cbqj
 
@@ -93,7 +93,7 @@ NCore Framework is developed separately from NCore Control. Public packages and 
 ZOcre Framework is developed and maintained as an independent project for NANOS.  
 Your support helps fund development, documentation, testing, and project infrastructure.
 
-[![Support NCore Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
+[![Support ZOcre Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
 
 ### Legal
 
@@ -156,7 +156,7 @@ NCore Framework est développé séparément de NCore Control. Les packages et r
 ### Canaux officiels
 
 - **Organisation officielle :** https://github.com/ncore-framework-official
-- **Page produit NCore Control :** https://github.com/ncore-framework-official/ncore-control
+- **Page produit ZOcre Control :** https://github.com/ncore-framework-official/ncore-control
 - **Releases Control historiques/actuelles :** https://github.com/boubeur/ncore-framework/releases
 - **Discord :** https://discord.gg/Ey4dn4Cbqj
 
@@ -165,7 +165,7 @@ NCore Framework est développé séparément de NCore Control. Les packages et r
 ZOcre Framework est développé et maintenu comme un projet indépendant pour NANOS.  
 Votre soutien contribue au développement, à la documentation, aux tests et à l'infrastructure du projet.
 
-[![Support NCore Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
+[![Support ZOcre Framework on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ncoreframework)
 
 ### Mentions juridiques
 
